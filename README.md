@@ -5,4 +5,4 @@ For example, the game says beat a rock. The user will be given buttons for rock,
 In this case, the correct option is paper. In different case, the game may say lose to a paper, then the user will need to choose rock to win the game.
 
 
-Please note: the idea of the game is taken from https://www.hackingwithswift.com/. The code is my own with the background design from "Guess the flag with SwiftUI" repository.
+Related links: https://www.hackingwithswift.com/.
